@@ -2,8 +2,9 @@
 
 <p align="center">
     <a href="https://twitter.com/dawsonbotsford" target="_blank">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lilflowersdev?style=social">
-      </a>
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lilflowersdev?style=social">
+    </a>
+    <br/>
     
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
