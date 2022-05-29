@@ -1,7 +1,7 @@
 <p align="center"> blockchain developer <br/> creator of lilflowers </p>
 
 <p align="center">
-    <a href="https://twitter.com/dawsonbotsford" target="_blank">
+    <a href="https://twitter.com/lilflowersdev" target="_blank">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lilflowersdev?style=social">
     </a>
     <br/>
